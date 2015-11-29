@@ -1,8 +1,8 @@
 # Server_Configuration
 An Amazon’s Elastic Compute Cloud (EC2) virtual server that hosts the Item Catalog application. 
 
-1.	i. IP address is 52.32.126.93 and SSH port is 2200
-    ii. Complete URL is http://ec2-52-32-126-93.us-west-2.compute.amazonaws.com/
+1.	i. IP address is 52.33.60.248 and SSH port is 2200
+    ii. Complete URL is http://ec2-52-33-60-248.us-west-2.compute.amazonaws.com/
     iii. A summary of installed software is:
     postgresql                                      install
     postgresql-9.3                                  install
